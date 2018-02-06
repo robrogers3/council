@@ -2,9 +2,7 @@
 
 return [
     'administrators' => [
-        'robrogers@me.com',
-        'johndoe@example.com',
-        'john@example.com'
+        // Add the email addresses of users who should be administrators here.
     ],
     'reputation' => [
         'thread_published' => 10,
